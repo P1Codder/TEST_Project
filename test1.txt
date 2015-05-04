@@ -1,6 +1,7 @@
 aaa
 new email: test@pol.pl
 HotFix1
+Fix04A
 HotFix2
 HotFix3
 HotFix4
