@@ -1,2 +1,2 @@
-0.0.4
-Change to test branching step 1
+0.0.7
+Change to test branching step 2
